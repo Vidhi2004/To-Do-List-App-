@@ -7,9 +7,9 @@ A clean and functional ReactJS To-Do List app using hooks and props, allowing us
 
 ## 🌐 Web Preview
 
-![WhatsApp Image 2025-04-29 at 21 23 18](images/WhatsApp%20Image%202025-04-29%20at%2021%2023%2018_895950b1.jpg)  
-![WhatsApp Image 2025-04-29 at 21 23 32](images/WhatsApp%20Image%202025-04-29%20at%2021%2023%2032_ffba58cc.jpg)  
-> 💡 *Screenshots of the app interface showing task management and filter UI.*
+![WhatsApp Image 2025-04-29 at 21 23 18_9d6052e8](https://github.com/user-attachments/assets/0948928d-6444-49c8-99d3-31a709a6867e)
+![WhatsApp Image 2025-04-29 at 21 23 32_433eab30](https://github.com/user-attachments/assets/425d9927-53e6-4de0-8d1a-8b905b6bb6ce)
+
 
 ---
 
