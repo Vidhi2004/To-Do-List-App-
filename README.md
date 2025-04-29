@@ -10,8 +10,10 @@ An interactive and user-friendly To-Do List app built using HTML, CSS, and JavaS
 
 ## 🌐 Web Preview
 
-![To-Do List Screenshot](images/todolist-view.png)  
-> 💡 *Screenshot of the To-Do List app interface.*
+![WhatsApp Image 2025-04-29 at 21 23 18_895950b1](https://github.com/user-attachments/assets/a6c290bb-31c4-4c0a-856e-a3f880c30275)
+![WhatsApp Image 2025-04-29 at 21 23 32_ffba58cc](https://github.com/user-attachments/assets/84c81e80-6fe4-40ba-9512-1374249efa35)
+
+
 
 ---
 
