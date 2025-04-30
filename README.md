@@ -2,8 +2,6 @@
 # ✅ To-Do List App
 
 A clean and functional ReactJS To-Do List app using hooks and props, allowing users to add, delete, complete, and filter tasks with a stylish UI.
-
-🔗 **Repository:** https://github.com/Vidhi2004/To-Do-List-App-
 ---
 
 ## 🌐 Web Preview
