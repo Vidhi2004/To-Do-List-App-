@@ -1,4 +1,4 @@
-```markdown
+
 # ✅ To-Do List App
 
 A **ReactJS**-powered To-Do List application bootstrapped with Create React App. Leveraging functional components, Hooks, and Props, it provides an intuitive interface to add, complete, delete, and filter tasks—all while persisting your data across sessions.
