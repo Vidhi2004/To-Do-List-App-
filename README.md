@@ -9,8 +9,8 @@ A **ReactJS**-powered To-Do List application bootstrapped with Create React App.
 
 ## 🌐 Web Preview
 
-![WhatsApp Image 2025-04-29 at 21 23 18_9d6052e8](https://github.com/user-attachments/assets/0948928d-6444-49c8-99d3-31a709a6867e)
-![WhatsApp Image 2025-04-29 at 21 23 32_433eab30](https://github.com/user-attachments/assets/425d9927-53e6-4de0-8d1a-8b905b6bb6ce)
+![WhatsApp Image 2025-04-29 at 21 23 14_5da32aa3](https://github.com/user-attachments/assets/acd614d6-9c44-45cd-b6f6-f9c378786c76)
+![WhatsApp Image 2025-04-29 at 21 23 28_7b44bbfe](https://github.com/user-attachments/assets/07af5698-810d-47f3-9461-1d83e533a8b5)
 
 ---
 
