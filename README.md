@@ -1,67 +1,59 @@
-
+```markdown
 # ✅ To-Do List App
 
-A clean and functional ReactJS To-Do List website/app using hooks and props, allowing users to add, delete, complete, and filter tasks with a stylish UI.
+A **ReactJS**-powered To-Do List application bootstrapped with Create React App. Leveraging functional components, Hooks, and Props, it provides an intuitive interface to add, complete, delete, and filter tasks—all while persisting your data across sessions.
+
+🔗 **Repository:** https://github.com/Vidhi2004/To-Do-List-App-
+
 ---
 
 ## 🌐 Web Preview
-![WhatsApp Image 2025-04-29 at 21 23 18_9d6052e8](https://github.com/user-attachments/assets/0948928d-6444-49c8-99d3-31a709a6867e)
-![WhatsApp Image 2025-04-29 at 21 23 32_433eab30](https://github.com/user-attachments/assets/425d9927-53e6-4de0-8d1a-8b905b6bb6ce)
 
-
+![Tasks View](images/WhatsApp%20Image%202025-04-29%20at%2021%2023%2018_9d6052e8.jpg)  
+![Filter View](images/WhatsApp%20Image%202025-04-29%20at%2021%2023%2032_433eab30.jpg)  
+> Screenshots: entering tasks & viewing filtered/completed lists.
 
 ---
 
 ## 📋 Table of Contents
 
-- [Features](#features)  
-- [Web Preview](#web-preview)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Project Structure](#project-structure)  
-- [Technologies Used](#technologies-used)  
-- [Team](#team)  
+1. [Features](#✨-features)  
+2. [Installation](#🛠-installation)  
+3. [Usage](#🚀-usage)  
+4. [Project Structure](#📂-project-structure)  
+5. [Technologies](#🧰-technologies)  
+6. [Team](#👥-team)  
 
 ---
 
 ## ✨ Features
 
-- **Add Tasks** – Enter new tasks via the input form.  
-- **Complete / Uncomplete** – Click a task to toggle its completion state.  
-- **Delete Tasks** – Remove tasks with the trash icon.  
-- **Filter Views** – Show All, Active, or Completed tasks.  
-- **Persistent Storage** – Tasks persist across page reloads via Local Storage.  
+- **Add Tasks** – Quick entry with form input and “Add” button.  
+- **Toggle Complete** – Click task text to mark complete/incomplete.  
+- **Delete Tasks** – Remove tasks via the trash icon.  
+- **Filter Views** – Toggle between All, Active, and Completed.  
+- **Data Persistence** – Tasks saved in Local Storage for session continuity.
 
 ---
 
 ## 🛠 Installation
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/Vidhi2004/To-Do-List-App-.git
-   ```
-2. **Change into the project directory**  
-   ```bash
-   cd To-Do-List-App-
-   ```
-3. **Install dependencies**  
-   ```bash
-   npm install
-   ```
-4. **Start the development server**  
-   ```bash
-   npm start
-   ```  
-   The app will open at `http://localhost:3000`.
+```bash
+git clone https://github.com/Vidhi2004/To-Do-List-App-.git
+cd To-Do-List-App-
+npm install
+npm start
+```
+Navigate to `http://localhost:3000` in your browser.
 
 ---
 
 ## 🚀 Usage
 
-- **Add** a task by typing into the “Add a new task” field and pressing Enter or clicking “Add”.  
-- **Toggle** completion by clicking the task text.  
-- **Delete** tasks with the trash icon next to each item.  
-- **Filter** tasks using the All / Active / Completed buttons.
+1. **Add** a task: type in “Add a new task…” and press Enter or click “Add”.  
+2. **Toggle** status: click the task text to mark it done/undone.  
+3. **Delete**: click the trash icon next to any task.  
+4. **Filter**: use the All / Active / Completed buttons to subset the list.
 
 ---
 
@@ -69,35 +61,39 @@ A clean and functional ReactJS To-Do List website/app using hooks and props, all
 
 ```
 To-Do-List-App-/
-├── node_modules/                      # Installed dependencies
-├── public/                            # Static assets & HTML template
-│   ├── favicon.ico
-│   ├── index.html
-│   └── manifest.json
-├── src/                               # React source code
-│   ├── components/                    # Reusable UI components
-│   │   ├── FilterButtons.js
-│   │   ├── TodoForm.js
-│   │   ├── TodoItem.js
-│   │   └── TodoList.js
-│   ├── App.js                         # Main application component
-│   ├── App.css                        # App-specific styles
-│   ├── App.test.js                    # Tests
-│   ├── index.js                       # React entry point
-│   └── index.css                      # Global styles
-├── .gitignore                         # Files to ignore in Git
-├── package.json                       # Project metadata & scripts
-├── package-lock.json                  # Exact dependency versions
-└── README.md                          # This documentation
+├── node_modules/               # Third-party dependencies
+├── public/                     # Static assets & index.html
+│   └── favicon.ico, manifest.json, etc.
+├── src/                        # Application source code
+│   ├── components/             # Reusable UI modules
+│   │   ├── FilterButtons.js    # All/Active/Completed filters
+│   │   ├── TodoForm.js         # Task input form
+│   │   ├── TodoItem.js         # Single task display & controls
+│   │   └── TodoList.js         # List container & logic
+│   ├── App.js                  # Root component orchestrating state
+│   ├── App.css                 # Component-scoped styles
+│   ├── App.test.js             # Unit tests for App
+│   ├── index.js                # ReactDOM.render entry point
+│   └── index.css               # Global base styles
+├── .gitignore                  # Git exclusion patterns
+├── package.json                # Scripts & dependency manifest
+├── package-lock.json           # Exact dependency tree
+└── README.md                   # Project documentation
 ```
 
 ---
 
-## 🧰 Technologies Used
+## 🧰 Technologies
 
-- **ReactJS** (Create React App, Hooks, Props)  
-- **JavaScript** (ES6+)  
-- **CSS** (Flexbox, responsive design)  
-- **Local Storage** (persist tasks)
+| Category       | Tools & Libraries                         |
+|----------------|-------------------------------------------|
+| Framework      | ReactJS (Create React App)                |
+| Language       | JavaScript (ES6+)                         |
+| Styling        | CSS3 (Flexbox, Media Queries)             |
+| State & Hooks  | React Hooks (useState, useEffect)         |
+| Persistence    | Web APIs: Local Storage                   |
+| Testing        | Jest & React Testing Library              |
+| Versioning     | Git & GitHub                              |
 
 ---
+
