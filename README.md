@@ -17,7 +17,6 @@ A **ReactJS**-powered To-Do List application bootstrapped with Create React App.
 3. [Usage](#🚀-usage)  
 4. [Project Structure](#📂-project-structure)  
 5. [Technologies](#🧰-technologies)  
-6. [Team](#👥-team)  
 
 ---
 
